@@ -1,9 +1,9 @@
-# MEVN-boilerplate
+# Colleges
 
 ## Setup Development Machine
-1. Clone the repo `git clone git@github.com:anaida07/MEVN-boilerplate.git`
+1. Clone the repo `git clone https://github.com/pwjablonski/colleges.git`
 
-2. `cd MEVN-boilerplate`
+2. `cd colleges`
 
 3. Open client
 ```
